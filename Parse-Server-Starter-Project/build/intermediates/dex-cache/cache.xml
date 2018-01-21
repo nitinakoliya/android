@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/80c03180c58b9ac3c44dc959e154fe5d3feef845/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8548decd1d1b0fb1fe85c0831165d0c2aeefc808/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/fcd25a02c486fb4a63c16765e1d24683926a7752/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12bd78e58e8fc9e31fe17df90c28f06e9d449f77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/796158ca99327337d4e1137e2b8b7fe1ad309be2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f036a61abb32e0c05894b629f477a2e6a5682eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/fb62e3c73875c9fbd790c36d0850bee71f3e5d8e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f12df897bdf650b8a3901d94c5ad1bd61f87eff9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/95d6ab953c4dd64aee7e2931b72411ec7953acae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_658b5f4fbb3dcf07fb7b97f0bab95cdbc6a9af99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/5bbbcce0b65c030375c9ef59d8930ca4d7895a03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6494cc3d6fe243725624024d19ad856cf42886f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/f59f956332232e98a7350720760488da12f38b1f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bab5c34bad5a9d029c9f708a7dacb0fb1ca69335/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/1b642736a7c8d6d6580f4012fe5bdc3098bb2d15/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c0d46aea4f6334642b1da53bd8066f0ce65f98f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_e8751b2448cc8ff0aa64806d75fb2fa777ae7461/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/0f2fb6a30a0ce5b91edd97437b9a33576f7dbea6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd341b1120f1cfa404366cbec93a2f11fcd389e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/21033c86cb1f93d05f0963a630bc0fff476637fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0cf8f80f7a19e5e3bf845d1936d1d4737feacb2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/e22f8a6c46763a52c6ed3962417c19729ef9bbdc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63b662b462614a3144a5879f9afd9702aa827fd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e2e1d9bcc2013a2a2f5b84838a218b689149401/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/4f31ee54fbca4af6007a8b059746df4e453089e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb9c215dde612cfc9c94957de860a349c009eab4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/4bb0a35cb5f4ae4450d92699952e937d1bc87840/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5aaedf3256bcf67a95e8d4d6047eb849ce28195d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/7f65c3c996bc71b40ca692887a29c3945a794f98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c4d166beeb34bf8d3b02d736d9e46c1852b95ddd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/9b124a5599d2360f43ece7f1cbab1247121ebb3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ababe7e9d8307c3f2161abcff9845780feb02b50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/ff719ebe0f727c4f3696beccbf8a4d60c79c4550/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_343c57cbb846a0481f0b770a5c87b859938bc48d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/c3fd7bb318bfda7e40bf5cde09795446413e0367/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_884159c9973bf5a31387059c96f625aa8195130b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_372e5fba8db09b8ba972d92c47ccb71c91c359ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/8ab165fa019ccaf04bfc39b32167091f5ee32af2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78555074aff7263cc8120f4fbbbb5ee5191bb277/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/2e84ec372ab181afc62c855c164d640b8b634ce7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_099fb3e327ab2e41ef0e4e15f06b11ef64e1aa56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/7bf729a7c4552ebbb70082b17ff990579c545851/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7279589bae5bb3f719de490d92f726d2b27294ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/5383d1054ea86cd317e2b5a24669aa8d944f3f78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6516eee372d75cc54a70ccd4d7bb0544bb3a05e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/4c46108e2eb33af78d0066615903fe64065edeb9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0066ea06feb193b5aca51fdca0f6f67331a69e43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/81235bc02f305af3ca73f67a77f35c2ef5209cf8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eabba84ad537ae542a3cd389f7954d2307ee54a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/6634d7aba13df960356f71551db2f65f01976a29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_463f98948035e20a8f27fec7f565614c2bd5853c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/e752144bd7d575177bf84fd18a0691185dc7cac8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f6b4b95db95a8eb95f9bc274fe1875d1b6b4c3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/014c24a58e39bc54ca70a2a7a0ab07fbc254d9cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6175acc5d9361ba05456b622d776cbf94f75386b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/6171b5f515362a587f1afadb5cd65aec8b084cb8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01bc499f6daf46bc3f224d97a11a236612d4a094/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/5f8e4479115cc308ee0495e62689b5a3f6b0d5de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac45addaf3ecec1f7c95b70b986562abc22bd1dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/6a5bb34f3dde25fc2ff4140028fba16ca4e1cf07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52d16bf0d363a1a945cfd3a2e39bea838e908103/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/288b3d1b31700cc9318ba24c128de6e4a8141ebd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e62984b602a4afe8023173791add375aab9c33c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/28af294213c395f5f79402471be6d17404a138b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ded7b39ffe68848f0f6b9fd68afa3b40cb30d28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fde9dd73710ed136884ace5b84e751c54ab2cb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/a207942a8537703c10eec125c00360a6c8ec535e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_449ed3a3736019cd640c0249a321608cfa6e1535/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/555be232644d44c1c2174b98a9924156a1fdb82f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c57376066d3b52a63e62e2df3eb418a936763314/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/ff719ebe0f727c4f3696beccbf8a4d60c79c4550/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_6b326f9e06126cd13c1b667d8324e7d65b89694f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/8a70b328e826193524a314ee58ea8c9c9ed707a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_800cc0ac30232d374ee23e0939c1e8aba94ef318/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/5b3c15f3ba9970412fda5e0a0dd93b5b95038b3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04612b70a83b3a3f0a3a0ace145226c409710757/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/461dd23a2e106ca7d8ee081451b945e08f4ae472/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac5990e02513042f6ae83e5d102a2f85cb3664d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/d5558e839194ec5b16470fef4d5ef85731bac07e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c6bd2a18aec5a2755057f0a43dfd1957b8fa873/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/b506f24d1993d410024c9f76f4db4b682ccee4c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bda3da100994f794518bad00fe7499634dd63392/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3682244c56292dba209887d2f1bbe92cbdb57b9b">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a059b522f37f113f4361c5be5a385e06ecf97bf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/d9581d60d2089749148ef9696d0d727b525fa6c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de4493e25282c28a0edacf54635a007e4704286d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/2a7665331af3558a9da3d83406b0b875f5206cce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_220e8eb8d480783204484408ffaee88790b7d547/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_adb10ec1f493810d2286fb5183e5dd288bd67e76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e21d13ed0098353bc52b839689d7f85a335444da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/8ce960c296c41feeaa4c36ea9c73df470584d3fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_733d8b1ba0148d6c018900dc076009dd911500df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/067c0e60fe49e485526aebcbf511494772f9d338/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a74906d3832ecc612a9ba039f431fd0a2e115336/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/6a68ad3fbde6906e217637975b60fe96ca5d1e9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b596311fe8a74c6338f37d579a586ce45d9f551e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/e8be625a657cce97d5454c4e54b88cf97f68e6f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8481021cd88e28a9c5b5922ef3c869a43f13196/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/82b56ecb795c7a4088c36a3633958bfb5b81498e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c4215f3d0564e7cc9d8c5f8ac0074ed4c755c6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/6a2f40edf3223497fbde0dc461f3401b24886e00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8933e311d732abd7b887c2ed73cbb455681ab0a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nitin.akoliya/.android/build-cache/96eeb604f2f3e5fa95c7d8ac10885e3783703484/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6b1e20ca5d5f93181d0232590d91f6ebced4e63/classes.dex" />
+    </item>
+
+</items>

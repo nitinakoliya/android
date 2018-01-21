@@ -1,0 +1,458 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+	package
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/nitin.akoliya/.android/build-cache/1b642736a7c8d6d6580f4012fe5bdc3098bb2d15/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/5b3c15f3ba9970412fda5e0a0dd93b5b95038b3d/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/nitin.akoliya/.android/build-cache/8ab165fa019ccaf04bfc39b32167091f5ee32af2/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/nitin.akoliya/.android/build-cache/82b56ecb795c7a4088c36a3633958bfb5b81498e/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/nitin.akoliya/.android/build-cache/067c0e60fe49e485526aebcbf511494772f9d338/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/fb62e3c73875c9fbd790c36d0850bee71f3e5d8e/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/nitin.akoliya/.android/build-cache/96eeb604f2f3e5fa95c7d8ac10885e3783703484/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/nitin.akoliya/.android/build-cache/c3fd7bb318bfda7e40bf5cde09795446413e0367/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/nitin.akoliya/.android/build-cache/fcd25a02c486fb4a63c16765e1d24683926a7752/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/nitin.akoliya/.android/build-cache/1b642736a7c8d6d6580f4012fe5bdc3098bb2d15/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/5b3c15f3ba9970412fda5e0a0dd93b5b95038b3d/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/nitin.akoliya/.android/build-cache/95d6ab953c4dd64aee7e2931b72411ec7953acae/output/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/nitin.akoliya/.android/build-cache/96eeb604f2f3e5fa95c7d8ac10885e3783703484/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/nitin.akoliya/.android/build-cache/c3fd7bb318bfda7e40bf5cde09795446413e0367/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/nitin.akoliya/.android/build-cache/fcd25a02c486fb4a63c16765e1d24683926a7752/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
+application
+ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:5-34:19
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/nitin.akoliya/.android/build-cache/d3146175aa869e85cf328f9caea190e3c1f12d3f/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/nitin.akoliya/.android/build-cache/1b642736a7c8d6d6580f4012fe5bdc3098bb2d15/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/5b3c15f3ba9970412fda5e0a0dd93b5b95038b3d/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/nitin.akoliya/.android/build-cache/8ab165fa019ccaf04bfc39b32167091f5ee32af2/output/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/nitin.akoliya/.android/build-cache/d9581d60d2089749148ef9696d0d727b525fa6c2/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/nitin.akoliya/.android/build-cache/4c46108e2eb33af78d0066615903fe64065edeb9/output/AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/nitin.akoliya/.android/build-cache/e8be625a657cce97d5454c4e54b88cf97f68e6f7/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/nitin.akoliya/.android/build-cache/ff719ebe0f727c4f3696beccbf8a4d60c79c4550/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/925e14d3d74799021afd376edd9c8a7ab6ac7126/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/f81016ffad1a7e12c93048ebebc28c4b960af3ab/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/9e09591ccc629e7d2c9e1ec96cf6ec6570df294e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/nitin.akoliya/.android/build-cache/9b124a5599d2360f43ece7f1cbab1247121ebb3c/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/nitin.akoliya/.android/build-cache/5f8e4479115cc308ee0495e62689b5a3f6b0d5de/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/nitin.akoliya/.android/build-cache/80c03180c58b9ac3c44dc959e154fe5d3feef845/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/nitin.akoliya/.android/build-cache/82b56ecb795c7a4088c36a3633958bfb5b81498e/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/nitin.akoliya/.android/build-cache/e752144bd7d575177bf84fd18a0691185dc7cac8/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/nitin.akoliya/.android/build-cache/555be232644d44c1c2174b98a9924156a1fdb82f/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/nitin.akoliya/.android/build-cache/6a2f40edf3223497fbde0dc461f3401b24886e00/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/nitin.akoliya/.android/build-cache/8ce960c296c41feeaa4c36ea9c73df470584d3fe/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/nitin.akoliya/.android/build-cache/7f65c3c996bc71b40ca692887a29c3945a794f98/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/nitin.akoliya/.android/build-cache/5bbbcce0b65c030375c9ef59d8930ca4d7895a03/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/nitin.akoliya/.android/build-cache/2e84ec372ab181afc62c855c164d640b8b634ce7/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/nitin.akoliya/.android/build-cache/067c0e60fe49e485526aebcbf511494772f9d338/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/nitin.akoliya/.android/build-cache/8a70b328e826193524a314ee58ea8c9c9ed707a3/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/fb62e3c73875c9fbd790c36d0850bee71f3e5d8e/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bb0a35cb5f4ae4450d92699952e937d1bc87840/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/nitin.akoliya/.android/build-cache/95d6ab953c4dd64aee7e2931b72411ec7953acae/output/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/nitin.akoliya/.android/build-cache/b506f24d1993d410024c9f76f4db4b682ccee4c8/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/nitin.akoliya/.android/build-cache/6a5bb34f3dde25fc2ff4140028fba16ca4e1cf07/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/nitin.akoliya/.android/build-cache/288b3d1b31700cc9318ba24c128de6e4a8141ebd/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/nitin.akoliya/.android/build-cache/2a7665331af3558a9da3d83406b0b875f5206cce/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/nitin.akoliya/.android/build-cache/96eeb604f2f3e5fa95c7d8ac10885e3783703484/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/nitin.akoliya/.android/build-cache/c3fd7bb318bfda7e40bf5cde09795446413e0367/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/nitin.akoliya/.android/build-cache/21033c86cb1f93d05f0963a630bc0fff476637fc/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/nitin.akoliya/.android/build-cache/461dd23a2e106ca7d8ee081451b945e08f4ae472/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/nitin.akoliya/.android/build-cache/7bf729a7c4552ebbb70082b17ff990579c545851/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/nitin.akoliya/.android/build-cache/fcd25a02c486fb4a63c16765e1d24683926a7752/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/nitin.akoliya/.android/build-cache/d5558e839194ec5b16470fef4d5ef85731bac07e/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/nitin.akoliya/.android/build-cache/f59f956332232e98a7350720760488da12f38b1f/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/nitin.akoliya/.android/build-cache/28af294213c395f5f79402471be6d17404a138b4/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/nitin.akoliya/.android/build-cache/6634d7aba13df960356f71551db2f65f01976a29/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/c9323b4d820161e1e1c2d83cff1cccdafcc296f2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/b575ca59ff06cc03d934d9563f66ee00a51b904e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/9928147e2c6ff08ccc8abc6d5884a4ee491e73bd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/667121dd7b370376c598c33d8b982d09d3b1a214/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/a947bd243e50d279eb70abc56bdbc204420b6e80/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/5124fea1d513a7b938bed0c25f81503533ff5b14/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nitin.akoliya/.android/build-cache/c466ac8f01419324a8d0faf928743e2ea7fe94ee/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:9-43
+	android:theme
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:9-43
+activity#com.parse.starter.MainActivityInstagram
+ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:27-74
+activity#com.parse.starter.UserListActivity
+ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:9-54
+	android:name
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:19-51
+activity#com.parse.starter.UserFeedActivity
+ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:9-63
+	android:name
+		ADDED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:19-51
+uses-sdk
+INJECTED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/nitin.akoliya/.android/build-cache/d3146175aa869e85cf328f9caea190e3c1f12d3f/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/nitin.akoliya/.android/build-cache/5383d1054ea86cd317e2b5a24669aa8d944f3f78/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/nitin.akoliya/.android/build-cache/1b642736a7c8d6d6580f4012fe5bdc3098bb2d15/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/5b3c15f3ba9970412fda5e0a0dd93b5b95038b3d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/nitin.akoliya/.android/build-cache/8ab165fa019ccaf04bfc39b32167091f5ee32af2/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/nitin.akoliya/.android/build-cache/d9581d60d2089749148ef9696d0d727b525fa6c2/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] /Users/nitin.akoliya/.android/build-cache/0f2fb6a30a0ce5b91edd97437b9a33576f7dbea6/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/nitin.akoliya/.android/build-cache/4c46108e2eb33af78d0066615903fe64065edeb9/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/nitin.akoliya/.android/build-cache/e8be625a657cce97d5454c4e54b88cf97f68e6f7/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/nitin.akoliya/.android/build-cache/ff719ebe0f727c4f3696beccbf8a4d60c79c4550/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/925e14d3d74799021afd376edd9c8a7ab6ac7126/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/f81016ffad1a7e12c93048ebebc28c4b960af3ab/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/9e09591ccc629e7d2c9e1ec96cf6ec6570df294e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/nitin.akoliya/.android/build-cache/9b124a5599d2360f43ece7f1cbab1247121ebb3c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/nitin.akoliya/.android/build-cache/5f8e4479115cc308ee0495e62689b5a3f6b0d5de/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/nitin.akoliya/.android/build-cache/80c03180c58b9ac3c44dc959e154fe5d3feef845/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/nitin.akoliya/.android/build-cache/82b56ecb795c7a4088c36a3633958bfb5b81498e/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/nitin.akoliya/.android/build-cache/e752144bd7d575177bf84fd18a0691185dc7cac8/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/nitin.akoliya/.android/build-cache/555be232644d44c1c2174b98a9924156a1fdb82f/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] /Users/nitin.akoliya/.android/build-cache/6171b5f515362a587f1afadb5cd65aec8b084cb8/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] /Users/nitin.akoliya/.android/build-cache/014c24a58e39bc54ca70a2a7a0ab07fbc254d9cb/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /Users/nitin.akoliya/.android/build-cache/6a68ad3fbde6906e217637975b60fe96ca5d1e9e/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/nitin.akoliya/.android/build-cache/6a2f40edf3223497fbde0dc461f3401b24886e00/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-storage:9.4.0] /Users/nitin.akoliya/.android/build-cache/e22f8a6c46763a52c6ed3962417c19729ef9bbdc/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] /Users/nitin.akoliya/.android/build-cache/81235bc02f305af3ca73f67a77f35c2ef5209cf8/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/nitin.akoliya/.android/build-cache/8ce960c296c41feeaa4c36ea9c73df470584d3fe/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/nitin.akoliya/.android/build-cache/7f65c3c996bc71b40ca692887a29c3945a794f98/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/nitin.akoliya/.android/build-cache/5bbbcce0b65c030375c9ef59d8930ca4d7895a03/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/nitin.akoliya/.android/build-cache/2e84ec372ab181afc62c855c164d640b8b634ce7/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/nitin.akoliya/.android/build-cache/067c0e60fe49e485526aebcbf511494772f9d338/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/nitin.akoliya/.android/build-cache/8a70b328e826193524a314ee58ea8c9c9ed707a3/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/fb62e3c73875c9fbd790c36d0850bee71f3e5d8e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bb0a35cb5f4ae4450d92699952e937d1bc87840/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/nitin.akoliya/.android/build-cache/95d6ab953c4dd64aee7e2931b72411ec7953acae/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/nitin.akoliya/.android/build-cache/b506f24d1993d410024c9f76f4db4b682ccee4c8/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/nitin.akoliya/.android/build-cache/6a5bb34f3dde25fc2ff4140028fba16ca4e1cf07/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/nitin.akoliya/.android/build-cache/288b3d1b31700cc9318ba24c128de6e4a8141ebd/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/nitin.akoliya/.android/build-cache/2a7665331af3558a9da3d83406b0b875f5206cce/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] /Users/nitin.akoliya/.android/build-cache/4f31ee54fbca4af6007a8b059746df4e453089e8/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/nitin.akoliya/.android/build-cache/96eeb604f2f3e5fa95c7d8ac10885e3783703484/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/nitin.akoliya/.android/build-cache/c3fd7bb318bfda7e40bf5cde09795446413e0367/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/nitin.akoliya/.android/build-cache/21033c86cb1f93d05f0963a630bc0fff476637fc/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/nitin.akoliya/.android/build-cache/461dd23a2e106ca7d8ee081451b945e08f4ae472/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /Users/nitin.akoliya/.android/build-cache/a207942a8537703c10eec125c00360a6c8ec535e/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/nitin.akoliya/.android/build-cache/7bf729a7c4552ebbb70082b17ff990579c545851/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/nitin.akoliya/.android/build-cache/fcd25a02c486fb4a63c16765e1d24683926a7752/output/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/nitin.akoliya/.android/build-cache/d5558e839194ec5b16470fef4d5ef85731bac07e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/nitin.akoliya/.android/build-cache/f59f956332232e98a7350720760488da12f38b1f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/nitin.akoliya/.android/build-cache/28af294213c395f5f79402471be6d17404a138b4/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/nitin.akoliya/.android/build-cache/6634d7aba13df960356f71551db2f65f01976a29/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/c9323b4d820161e1e1c2d83cff1cccdafcc296f2/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/b575ca59ff06cc03d934d9563f66ee00a51b904e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/9928147e2c6ff08ccc8abc6d5884a4ee491e73bd/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/667121dd7b370376c598c33d8b982d09d3b1a214/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/a947bd243e50d279eb70abc56bdbc204420b6e80/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/5124fea1d513a7b938bed0c25f81503533ff5b14/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:multidex:1.0.0] /Users/nitin.akoliya/.android/build-cache/796158ca99327337d4e1137e2b8b7fe1ad309be2/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nitin.akoliya/.android/build-cache/c466ac8f01419324a8d0faf928743e2ea7fe94ee/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/925e14d3d74799021afd376edd9c8a7ab6ac7126/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/nitin.akoliya/.android/build-cache/1b642736a7c8d6d6580f4012fe5bdc3098bb2d15/output/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/nitin.akoliya/.android/build-cache/1b642736a7c8d6d6580f4012fe5bdc3098bb2d15/output/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/nitin.akoliya/.android/build-cache/1b642736a7c8d6d6580f4012fe5bdc3098bb2d15/output/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/nitin.akoliya/.android/build-cache/1b642736a7c8d6d6580f4012fe5bdc3098bb2d15/output/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/nitin.akoliya/.android/build-cache/1b642736a7c8d6d6580f4012fe5bdc3098bb2d15/output/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/nitin.akoliya/.android/build-cache/1b642736a7c8d6d6580f4012fe5bdc3098bb2d15/output/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/nitin.akoliya/.android/build-cache/1b642736a7c8d6d6580f4012fe5bdc3098bb2d15/output/AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/5b3c15f3ba9970412fda5e0a0dd93b5b95038b3d/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/nitin.akoliya/.android/build-cache/96eeb604f2f3e5fa95c7d8ac10885e3783703484/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/nitin.akoliya/.android/build-cache/c3fd7bb318bfda7e40bf5cde09795446413e0367/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/5b3c15f3ba9970412fda5e0a0dd93b5b95038b3d/output/AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/nitin.akoliya/.android/build-cache/8ab165fa019ccaf04bfc39b32167091f5ee32af2/output/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/nitin.akoliya/.android/build-cache/8ab165fa019ccaf04bfc39b32167091f5ee32af2/output/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/nitin.akoliya/.android/build-cache/8ab165fa019ccaf04bfc39b32167091f5ee32af2/output/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/nitin.akoliya/.android/build-cache/8ab165fa019ccaf04bfc39b32167091f5ee32af2/output/AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/nitin.akoliya/.android/build-cache/8ab165fa019ccaf04bfc39b32167091f5ee32af2/output/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/nitin.akoliya/.android/build-cache/8ab165fa019ccaf04bfc39b32167091f5ee32af2/output/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/nitin.akoliya/.android/build-cache/8ab165fa019ccaf04bfc39b32167091f5ee32af2/output/AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/nitin.akoliya/.android/build-cache/8ab165fa019ccaf04bfc39b32167091f5ee32af2/output/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/nitin.akoliya/.android/build-cache/8ab165fa019ccaf04bfc39b32167091f5ee32af2/output/AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/nitin.akoliya/.android/build-cache/d9581d60d2089749148ef9696d0d727b525fa6c2/output/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/nitin.akoliya/.android/build-cache/d9581d60d2089749148ef9696d0d727b525fa6c2/output/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/nitin.akoliya/.android/build-cache/d9581d60d2089749148ef9696d0d727b525fa6c2/output/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/nitin.akoliya/.android/build-cache/d9581d60d2089749148ef9696d0d727b525fa6c2/output/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/nitin.akoliya/.android/build-cache/d9581d60d2089749148ef9696d0d727b525fa6c2/output/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/nitin.akoliya/.android/build-cache/d9581d60d2089749148ef9696d0d727b525fa6c2/output/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/nitin.akoliya/.android/build-cache/d9581d60d2089749148ef9696d0d727b525fa6c2/output/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/nitin.akoliya/.android/build-cache/d9581d60d2089749148ef9696d0d727b525fa6c2/output/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/nitin.akoliya/.android/build-cache/d9581d60d2089749148ef9696d0d727b525fa6c2/output/AndroidManifest.xml:29:13-58
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/nitin.akoliya/.android/build-cache/4c46108e2eb33af78d0066615903fe64065edeb9/output/AndroidManifest.xml:6:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/nitin.akoliya/.android/build-cache/4c46108e2eb33af78d0066615903fe64065edeb9/output/AndroidManifest.xml:6:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/nitin.akoliya/.android/build-cache/4c46108e2eb33af78d0066615903fe64065edeb9/output/AndroidManifest.xml:7:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/nitin.akoliya/.android/build-cache/4c46108e2eb33af78d0066615903fe64065edeb9/output/AndroidManifest.xml:7:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/nitin.akoliya/.android/build-cache/4c46108e2eb33af78d0066615903fe64065edeb9/output/AndroidManifest.xml:8:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/nitin.akoliya/.android/build-cache/4c46108e2eb33af78d0066615903fe64065edeb9/output/AndroidManifest.xml:8:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/925e14d3d74799021afd376edd9c8a7ab6ac7126/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/f81016ffad1a7e12c93048ebebc28c4b960af3ab/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/9e09591ccc629e7d2c9e1ec96cf6ec6570df294e/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/c9323b4d820161e1e1c2d83cff1cccdafcc296f2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/b575ca59ff06cc03d934d9563f66ee00a51b904e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/9928147e2c6ff08ccc8abc6d5884a4ee491e73bd/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/667121dd7b370376c598c33d8b982d09d3b1a214/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/a947bd243e50d279eb70abc56bdbc204420b6e80/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/5124fea1d513a7b938bed0c25f81503533ff5b14/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/925e14d3d74799021afd376edd9c8a7ab6ac7126/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/nitin.akoliya/.android/build-cache/925e14d3d74799021afd376edd9c8a7ab6ac7126/output/AndroidManifest.xml:26:9-47
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/nitin.akoliya/.android/build-cache/82b56ecb795c7a4088c36a3633958bfb5b81498e/output/AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/nitin.akoliya/.android/build-cache/82b56ecb795c7a4088c36a3633958bfb5b81498e/output/AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/nitin.akoliya/.android/build-cache/82b56ecb795c7a4088c36a3633958bfb5b81498e/output/AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/nitin.akoliya/.android/build-cache/82b56ecb795c7a4088c36a3633958bfb5b81498e/output/AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/nitin.akoliya/.android/build-cache/82b56ecb795c7a4088c36a3633958bfb5b81498e/output/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/nitin.akoliya/.android/build-cache/82b56ecb795c7a4088c36a3633958bfb5b81498e/output/AndroidManifest.xml:29:18-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/nitin.akoliya/.android/build-cache/6a2f40edf3223497fbde0dc461f3401b24886e00/output/AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/nitin.akoliya/.android/build-cache/6a2f40edf3223497fbde0dc461f3401b24886e00/output/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/nitin.akoliya/.android/build-cache/6a2f40edf3223497fbde0dc461f3401b24886e00/output/AndroidManifest.xml:25:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/nitin.akoliya/.android/build-cache/6a2f40edf3223497fbde0dc461f3401b24886e00/output/AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/nitin.akoliya/.android/build-cache/6a2f40edf3223497fbde0dc461f3401b24886e00/output/AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/nitin.akoliya/.android/build-cache/6a2f40edf3223497fbde0dc461f3401b24886e00/output/AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/nitin.akoliya/.android/build-cache/6a2f40edf3223497fbde0dc461f3401b24886e00/output/AndroidManifest.xml:28:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/nitin.akoliya/.android/build-cache/067c0e60fe49e485526aebcbf511494772f9d338/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/fb62e3c73875c9fbd790c36d0850bee71f3e5d8e/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/nitin.akoliya/.android/build-cache/067c0e60fe49e485526aebcbf511494772f9d338/output/AndroidManifest.xml:21:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:29:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/nitin.akoliya/.android/build-cache/d315a32c9c0ca87d244b3a5575faec2704b76beb/output/AndroidManifest.xml:35:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/nitin.akoliya/.android/build-cache/c3fd7bb318bfda7e40bf5cde09795446413e0367/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/nitin.akoliya/.android/build-cache/c3fd7bb318bfda7e40bf5cde09795446413e0367/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/nitin.akoliya/.android/build-cache/229f7f30720caf486d139130c72ff0c7ae656711/output/AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/nitin.akoliya/.android/build-cache/4bbfaacc1e7f2f59eb97a5fe3609e3ffb85c7c08/output/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/nitin.akoliya/.android/build-cache/21033c86cb1f93d05f0963a630bc0fff476637fc/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/nitin.akoliya/.android/build-cache/21033c86cb1f93d05f0963a630bc0fff476637fc/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/nitin.akoliya/.android/build-cache/21033c86cb1f93d05f0963a630bc0fff476637fc/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/nitin.akoliya/.android/build-cache/21033c86cb1f93d05f0963a630bc0fff476637fc/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/nitin.akoliya/.android/build-cache/21033c86cb1f93d05f0963a630bc0fff476637fc/output/AndroidManifest.xml:9:13-58
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/nitin.akoliya/.android/build-cache/fcd25a02c486fb4a63c16765e1d24683926a7752/output/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/nitin.akoliya/.android/build-cache/fcd25a02c486fb4a63c16765e1d24683926a7752/output/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/nitin.akoliya/.android/build-cache/fcd25a02c486fb4a63c16765e1d24683926a7752/output/AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/nitin.akoliya/.android/build-cache/f59f956332232e98a7350720760488da12f38b1f/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/nitin.akoliya/.android/build-cache/f59f956332232e98a7350720760488da12f38b1f/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/nitin.akoliya/.android/build-cache/f59f956332232e98a7350720760488da12f38b1f/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/nitin.akoliya/.android/build-cache/f59f956332232e98a7350720760488da12f38b1f/output/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/nitin.akoliya/.android/build-cache/6634d7aba13df960356f71551db2f65f01976a29/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/nitin.akoliya/.android/build-cache/6634d7aba13df960356f71551db2f65f01976a29/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/nitin.akoliya/.android/build-cache/6634d7aba13df960356f71551db2f65f01976a29/output/AndroidManifest.xml:22:13-58

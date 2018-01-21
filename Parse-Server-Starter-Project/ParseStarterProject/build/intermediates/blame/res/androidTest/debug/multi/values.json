@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/nitin.akoliya/.android/build-cache/6d8d42f65df013fcf66fbb738402d8aad1d7d984/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

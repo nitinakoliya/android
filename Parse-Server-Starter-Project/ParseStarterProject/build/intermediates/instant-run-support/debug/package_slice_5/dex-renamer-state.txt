@@ -1,0 +1,4 @@
+#Sat Jan 13 21:25:17 IST 2018
+base.0=/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

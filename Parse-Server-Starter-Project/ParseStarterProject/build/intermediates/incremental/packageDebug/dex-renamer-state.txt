@@ -1,0 +1,7 @@
+#Mon Jan 22 00:06:52 IST 2018
+base.0=/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a059b522f37f113f4361c5be5a385e06ecf97bf6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_372e5fba8db09b8ba972d92c47ccb71c91c359ec/classes.dex
+base.1=/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_372e5fba8db09b8ba972d92c47ccb71c91c359ec
+file.0=/Volumes/Data/Udemy/AndroidN/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a059b522f37f113f4361c5be5a385e06ecf97bf6/classes.dex
